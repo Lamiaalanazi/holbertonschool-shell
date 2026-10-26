@@ -11,3 +11,4 @@ hi
 10-mirror_permissions: Sets hello permissions to match olleh.
 11-directories_permissions: Adds execute permission for everyone to subdirectories of the current directory.
 12-directory_permissions: Creates my_dir with permissions 751.
+13-change_group: Changes the group owner of hello to school.
