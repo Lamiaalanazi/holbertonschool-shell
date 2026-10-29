@@ -19,3 +19,4 @@
 19-AZ: Replaces A with Z and c with e in the input.
 20-hiago: Removes all lowercase c and uppercase C characters from input.
 21-reverse: Reverses the characters in each input line.
+22-users_and_homes: Displays users and their home directories, sorted by username.
