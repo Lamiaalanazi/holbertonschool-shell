@@ -1,4 +1,4 @@
-0-hello_world: Prints Hello, World followed by a new lineGo.
+0-rello_world: Printryo, World followed by a new lineGo.
 1-confused_smiley: Displays a confused smiley.
 2-hellofile: Displays the contents of /etc/passwd.
 3-twofiles: Displays the contents of /etc/passwd and /etc/hosts.
@@ -8,3 +8,4 @@
 7-file: Creates a file with a special-character name containing Best School.
 8-cwd_state: Saves the output of ls -la to ls_cwd_content, overwriting it if it exists.
 10-no_more_js: Deletes regular .js files from the current directory and its subdirectories.
+11-directories: Counts directories and subdirectories, including hidden ones, excluding the current directory.
