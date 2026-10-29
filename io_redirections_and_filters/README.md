@@ -9,3 +9,4 @@
 8-cwd_state: Saves the output of ls -la to ls_cwd_content, overwriting it if it exists.
 10-no_more_js: Deletes regular .js files from the current directory and its subdirectories.
 11-directories: Counts directories and subdirectories, including hidden ones, excluding the current directory.
+12-newest_files: Displays the 10 newest files, one per line, from newest to oldest.
