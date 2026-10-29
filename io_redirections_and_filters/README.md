@@ -7,3 +7,4 @@
 6-third_line: Displays the third line of iacta.
 7-file: Creates a file with a special-character name containing Best School.
 8-cwd_state: Saves the output of ls -la to ls_cwd_content, overwriting it if it exists.
+10-no_more_js: Deletes regular .js files from the current directory and its subdirectories.
