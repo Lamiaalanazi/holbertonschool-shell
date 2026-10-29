@@ -8,3 +8,4 @@
 7-create_global_variable: Exports BEST with the value Schoo.
 8-true_knowledge: Prints 128 plus the value of TRUEKNOWLEDG.
 9-divide_and_rule: Prints POWER divided by DIVIDE.
+10-love_exponent_breath: Prints BREATH raised to the power of LOVE.
