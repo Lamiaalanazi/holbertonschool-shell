@@ -9,3 +9,4 @@
 8-true_knowledge: Prints 128 plus the value of TRUEKNOWLEDG.
 9-divide_and_rule: Prints POWER divided by DIVIDE.
 10-love_exponent_breath: Prints BREATH raised to the power of LOVE.
+11-binary_to_decimal: Converts BINARY from base 2 to base 10.
