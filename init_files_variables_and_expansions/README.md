@@ -7,3 +7,4 @@
 6-create_local_variable: Creates the shell variable BEST with the value School.
 7-create_global_variable: Exports BEST with the value Schoo.
 8-true_knowledge: Prints 128 plus the value of TRUEKNOWLEDG.
+9-divide_and_rule: Prints POWER divided by DIVIDE.
